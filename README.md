@@ -19,6 +19,7 @@ While reporting results using the SCUT-MMSIG database, please cite the following
 Yuhang Chen  
 cyhnice@foxmail.com  
 School of Information Science and Engineering, Xinjiang University, No.666 Shengli Road, Urumqi, Xinjiang, China   
+  
 Kurban Ubul  
 kurbanu@xju.edu.cn  
 School of Information Science and Engineering, Xinjiang University, No.666 Shengli Road, Urumqi, Xinjiang, China  
