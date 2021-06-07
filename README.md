@@ -2,7 +2,7 @@
 XJU-MJSIG: A Multilingual Online Signature Database
 To study the online signature of ethnic minority languages, a multilingual online signature data set is established by using a high sampling rate digital board. The data set includes 162 Uyghur individuals, 58 Kazakh individuals, and 33 Kirgiz individuals. Each individual has 10 real samples and 10 skilled forgery samples, The establishment of the data set fills the blank of online signature for small languages. In this paper, a benchmark algorithm is used to test the data, and compared with other public data sets, for the reference of subsequent researchers. 
 # File Naming Convention
-U{UserID}S{SignatureNumber}.txt
+U{UserID}S{SignatureNumber}.txt/n
 Genuine signatures:
 U{UserID}S1-U{UserID}S10
 Forged signatures:
