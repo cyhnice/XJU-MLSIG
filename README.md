@@ -12,7 +12,7 @@ U{UserID}S11-U{UserID}S20
 The XJU-MLSIG multilingual online signature database is publicly available (free of charge) to the research community.
 Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.
 Those interested in obtaining XJU-MLSIG database should download release agreement, and send by email one signed and scanned copy to kurbanu@xju.edu.cn.
-While reporting results using the SCUT-MMSIG database, please cite the following article:
+While reporting results using the XJU-MLSIG database, please cite the following article:
 @inproceedings{
 }
 # Contact
